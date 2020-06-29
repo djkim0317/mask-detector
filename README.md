@@ -1,6 +1,9 @@
 # mask-detector
 쿠팡 마스크 알리미
 ## 사용방법  
+`pip install selenium` selenium 설치  
+`pip install bs4` beautifulSoup 설치  
+
 `driver = webdriver.Chrome('')` 빈 부분에 크롬 웹 드라이버가 있는 위치를 지정해야한다.  
 예를들어 `driver = webdriver.Chrome('/Users/happy/Downloads/chromedriver')`
 
