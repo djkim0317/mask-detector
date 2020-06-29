@@ -16,4 +16,4 @@ driver.find_element_by_name('password').send_keys('')
 구매 가능한 마스크가 있다면 해당 제품의 구매 페이지로 넘어가고  
 전부 품절이라면 품절되지 않은 제품이 발견될 때까지 새로고침을 하며 찾는다.  
 
-<img width=600 src="https://user-images.githubusercontent.com/52627952/86005984-4a9a5600-ba50-11ea-8822-569c954963bf.gif">
+<img width=600 src="https://user-images.githubusercontent.com/52627952/86006459-f5127900-ba50-11ea-8fdc-7fa4d5f36e3d.gif">
